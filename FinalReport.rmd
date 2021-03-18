@@ -70,3 +70,7 @@ The odds ratio, which is 1.543902, means that women who got the vaccine are 1.5x
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+According to of all the data it shows that for the women who get the vaccine are more likely to get aids than the women who just get the placebo. So the drug does not seem to be effective.  
+
+
